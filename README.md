@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @Lucas_Santos
-- 👀 I'm interested in front-end development
+- 👀 Development
 - 🌱 I’m currently learning...
 - 📫 How to reach me: via my social media or email at lucassilva30957@gmail.com
 - 😄 Pronouns: he/him
